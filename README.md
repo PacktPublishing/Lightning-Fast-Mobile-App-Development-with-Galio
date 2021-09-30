@@ -55,7 +55,7 @@ With the following software and hardware list you can run all code files present
 | 1 - 12   | Homebrew                            | Macos only                         |
 | 1 - 12   | Chocolatey                          | Windows only                       |
 | 1 - 12   | Text Editor                         | Windows and macOS both             |
-| 1 - 12   | Andriod Studio                      | Windows and MacOS both             |
+| 1 - 12   | Android Studio                      | Windows and MacOS both             |
 | 1 - 12   | Xcode                               | MacOS only                         |
 
 
