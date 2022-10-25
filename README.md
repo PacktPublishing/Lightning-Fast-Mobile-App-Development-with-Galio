@@ -72,3 +72,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 **Alin Gheorghe**
 is a web developer based in Bucharest, Romania. After he created his first iOS game at the age of 15, he fell in love with the world of mobile applications. He has worked with a wide range of different technologies while also developing his love of music and photography. He truly believes coding is just another form of art which requires the developer to think outside the box.
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781801073165">https://packt.link/free-ebook/9781801073165 </a> </p>
